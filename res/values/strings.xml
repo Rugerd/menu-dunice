@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenuDunice</string>
+    <string name="items">Items</string>
+    <string name="cursor">Cursor</string>
+    <string name="ok">OK</string>
+    <string name="menu_settings">Settings</string>
+    <string name="_">Первое:</string>
+
+</resources>
